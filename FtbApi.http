@@ -1,0 +1,6 @@
+@FtbAPi_HostAddress = http://localhost:5076
+
+GET {{FtbAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
